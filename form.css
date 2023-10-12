@@ -1,0 +1,24 @@
+body{
+            background-color: rgb(188, 220, 249);
+}
+h2{
+            text-align: center;
+}
+button{
+            background-color: blue;
+            color: white;
+            margin-top: 2px;
+}
+.container{
+            background-color: white;
+            height: 280px;
+            width: 200px;
+            margin-left: 500px;
+            padding: 30px;
+            font-style: italic;
+            border: 2px solid black;
+            border-radius: 4%;
+}
+.signup{
+            padding: 2px;
+}

@@ -1,0 +1,36 @@
+#border {
+            border: 2px solid black;
+            padding: 5px;
+            text-align: right;     
+}
+a {
+            margin: 15px;
+            padding: 5px;
+}
+#DIV {
+            border: 2px solid black;
+            padding: 5px;
+            text-align: left;
+            
+}
+.profile{
+            text-align: center;
+            display: inline;
+            
+}
+.img{
+            display: block;
+}
+
+.Skills{
+            text-align: left;
+}
+.introduction{
+            text-align: center;
+}
+.hobby{
+            background-color: antiquewhite;
+}
+.futuregoals{
+            background-color: bisque;
+}
